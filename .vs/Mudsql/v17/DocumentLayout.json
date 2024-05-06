@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\pages\\employementmangement.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\pages\\employementmangement.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\models\\employement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\models\\employement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\shared\\confirmdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\shared\\confirmdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\migrations\\20240505131124_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\migrations\\20240505131124_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|c:\\users\\tafara\\source\\repos\\mudsql\\mudsql\\migrations\\20240505131124_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07401A5-C570-4332-8974-1D898D092448}|Mudsql\\Mudsql.csproj|solutionrelative:mudsql\\migrations\\20240505131124_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 179,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Program.cs",
+              "RelativeDocumentMoniker": "Mudsql\\Program.cs",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Program.cs",
+              "RelativeToolTip": "Mudsql\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:04:28.296Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "Mudsql\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\FetchData.razor",
+              "RelativeToolTip": "Mudsql\\Pages\\FetchData.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T01:40:55.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Mudsql\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Mudsql\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:23:42.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240505131124_init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Migrations\\20240505131124_init.Designer.cs",
+              "RelativeDocumentMoniker": "Mudsql\\Migrations\\20240505131124_init.Designer.cs",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Migrations\\20240505131124_init.Designer.cs",
+              "RelativeToolTip": "Mudsql\\Migrations\\20240505131124_init.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:20:24.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Mudsql\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Mudsql\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T00:16:12.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mudsql\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "Mudsql\\Pages\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T00:16:00.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Mudsql\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Mudsql\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T00:13:10.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfirmDialog.razor",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Shared\\ConfirmDialog.razor",
+              "RelativeDocumentMoniker": "Mudsql\\Shared\\ConfirmDialog.razor",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Shared\\ConfirmDialog.razor",
+              "RelativeToolTip": "Mudsql\\Shared\\ConfirmDialog.razor",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T23:33:44.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Mudsql\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Mudsql\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T16:03:34.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employementmangement.razor",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\Employementmangement.razor",
+              "RelativeDocumentMoniker": "Mudsql\\Pages\\Employementmangement.razor",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\Employementmangement.razor",
+              "RelativeToolTip": "Mudsql\\Pages\\Employementmangement.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T15:54:40.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "Mudsql\\Pages\\Component.razor",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\Component.razor",
+              "RelativeToolTip": "Mudsql\\Pages\\Component.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T15:53:11.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\_Imports.razor",
+              "RelativeDocumentMoniker": "Mudsql\\_Imports.razor",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\_Imports.razor",
+              "RelativeToolTip": "Mudsql\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T12:17:35.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Mudsql\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Pages\\Index.razor",
+              "RelativeToolTip": "Mudsql\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T13:13:36.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240505131124_init.cs",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Migrations\\20240505131124_init.cs",
+              "RelativeDocumentMoniker": "Mudsql\\Migrations\\20240505131124_init.cs",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Migrations\\20240505131124_init.cs",
+              "RelativeToolTip": "Mudsql\\Migrations\\20240505131124_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:11:25.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\appsettings.json",
+              "RelativeDocumentMoniker": "Mudsql\\appsettings.json",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\appsettings.json",
+              "RelativeToolTip": "Mudsql\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T12:56:49.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Mudsql\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "Mudsql\\Models\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:41:21.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employement.cs",
+              "DocumentMoniker": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Models\\Employement.cs",
+              "RelativeDocumentMoniker": "Mudsql\\Models\\Employement.cs",
+              "ToolTip": "C:\\Users\\TAFARA\\source\\repos\\Mudsql\\Mudsql\\Models\\Employement.cs",
+              "RelativeToolTip": "Mudsql\\Models\\Employement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:35:04.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

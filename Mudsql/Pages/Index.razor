@@ -1,0 +1,68 @@
+﻿@page "/"
+@using Mudsql.Models
+
+<PageTitle>Index</PageTitle>
+
+<h3>Add a new employee</h3>
+
+<EditForm Model="@newemployment" OnValidSubmit="SubmitForm">
+    <DataAnnotationsValidator />
+
+    <MudTextField Label="Name" @bind-Value="newemployment.Name" FullWidth Variant="Variant.Filled" />
+    <br />
+    <br />
+    <MudTextField Label="Email" @bind-Value="newemployment.Email" FullWidth Variant="Variant.Filled" />
+    <br />
+    <br />
+    <MudTextField Label="Salary" @bind-Value="newemployment.Salary" FullWidth Variant="Variant.Filled" InputType="InputType.Number" />
+    <br/>
+    <br/>
+    <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Secondary">
+        Submit
+    </MudButton>
+
+
+    @if(saved)
+    {
+        <p>The data has been added into the systen</p>
+    }
+
+    @if (error)
+    {
+        <p>Something went wrong</p>
+    }
+</EditForm>
+
+@inject Models.AppDBContext dbContext
+
+@code{
+    public Employment newemployment = new Employment();
+
+    public bool saved = false;
+    public bool error = false;
+
+    private async Task SubmitForm()
+    {
+        saved = false;
+        error = false;
+        try{
+
+            dbContext.employments.Add(newemployment);
+            await dbContext.SaveChangesAsync();
+            newemployment = new Employment();
+            saved =true; 
+
+
+        }
+        catch(Exception)
+        {
+            error = true;
+            throw;
+        }
+
+    }
+}
+
+
+
+

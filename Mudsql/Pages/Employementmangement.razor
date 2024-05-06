@@ -1,0 +1,95 @@
+﻿@page "/employee-management"
+@using System.Net.Http.Json
+@using Microsoft.EntityFrameworkCore
+@using Mudsql.Models
+@inject Models.AppDBContext dbContext
+
+<PageTitle>Employee Management</PageTitle>
+
+<h3>Employee List</h3>
+
+<MudDataGrid Items="@employments" Filterable="false" SortMode="@SortMode.None" Groupable="false">
+    <Columns>
+        <PropertyColumn Property="x => x.Name" />
+        <PropertyColumn Property="x => x.Email" />
+        <PropertyColumn Property="x => x.Salary" Format="C" />
+        <TemplateColumn CellClass="d-flex justify-content-end">
+            <CellTemplate>
+                <MudStack Row>
+                    <MudButton OnClick="@( () => RequestDelete(context.Item.EmployeeID) )" Size="@Size.Small" Variant="@Variant.Filled" Color="@Color.Error">Delete</MudButton>
+                    @if (showConfirm && deletingEmployeeId == context.Item.EmployeeID)
+                    {
+                        <div>
+                            <span>Confirm delete?</span>
+                            <MudButton OnClick="ConfirmDelete" Size="@Size.Small" Variant="@Variant.Filled" Color="@Color.Warning">Yes</MudButton>
+                            <MudButton OnClick="CancelDelete" Size="@Size.Small" Variant="@Variant.Filled" Color="@Color.Secondary">No</MudButton>
+                        </div>
+                    }
+                </MudStack>
+            </CellTemplate>
+        </TemplateColumn>
+    </Columns>
+</MudDataGrid>
+
+
+
+
+@code {
+    private bool showConfirm = false;
+    private int deletingEmployeeId;
+    public Employment newemployment = new Employment();
+    public List<Employment> employments = new List<Employment>();
+    public bool saved = false;
+    public bool error = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadEmployees();
+    }
+
+    private async Task LoadEmployees()
+    {
+        employments = await dbContext.employments.ToListAsync();
+    }
+
+    private void RequestDelete(int employeeId)
+    {
+        deletingEmployeeId = employeeId;
+        showConfirm = true;
+    }
+
+    private async Task ConfirmDelete()
+    {
+        showConfirm = false;
+        if (deletingEmployeeId > 0)
+        {
+            await DeleteEmployee(deletingEmployeeId);
+            deletingEmployeeId = 0;  
+        }
+    }
+
+    private void CancelDelete()
+    {
+        showConfirm = false;
+        deletingEmployeeId = 0;  
+    }
+
+    private async Task DeleteEmployee(int employeeId)
+    {
+        var employee = await dbContext.employments.FindAsync(employeeId);
+        if (employee != null)
+        {
+            dbContext.employments.Remove(employee);
+            try
+            {
+                await dbContext.SaveChangesAsync();
+                await LoadEmployees(); 
+            }
+            catch (Exception ex)
+            {
+                error = true;
+                Console.Error.WriteLine($"Failed to delete employee: {ex.Message}");
+            }
+        }
+    }
+}

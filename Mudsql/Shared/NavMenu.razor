@@ -1,0 +1,40 @@
+﻿<MudPaper Width="250px" Class="py-3 mb-4 custom-paper" Elevation="0">
+    <MudNavMenu>
+        <MudNavGroup Title="Ipluse Menu" @bind-Expanded=_isExpanded>
+            <MudNavLink Href="/" Class="custom-link">ADD users</MudNavLink>
+            <MudNavLink Href="/employee-management" Class="custom-link">View users</MudNavLink>
+        </MudNavGroup>
+    </MudNavMenu>
+</MudPaper>
+
+<MudText Class="status-text">
+    The Menu is 
+    @if (_isExpanded)
+    {
+        <b class="mud-theme-tertiary rounded pa-2 ml-2">expanded</b>
+    }
+    else
+    {
+        <b class="mud-theme-error rounded pa-2 ml-2">collapsed</b>
+    }
+</MudText>
+
+<style>
+    .custom-paper {
+        background-color: black;
+        color: orange; 
+    }
+
+    .custom-link a {
+        color: orange !important; 
+    }
+
+    .status-text .mud-theme-tertiary, .status-text .mud-theme-error {
+        background-color: orange;
+        color: black;
+    }
+</style>
+
+@code {
+    bool _isExpanded = true;
+}

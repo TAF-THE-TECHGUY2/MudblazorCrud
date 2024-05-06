@@ -1,0 +1,33 @@
+﻿@inherits LayoutComponentBase
+
+<PageTitle>Ipulse systems</PageTitle>
+
+<div class="page">
+    <div class="">
+        <NavMenu />
+    </div>
+
+    <main>
+        <MudAppBar Class="custom-app-bar" Fixed="false">
+            <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" />
+            <MudSpacer />
+            <MudIconButton Icon="@Icons.Custom.Brands.GitHub" Color="Color.Inherit" />
+        </MudAppBar>
+
+        <style>
+            .custom-app-bar {
+                background-color: black;
+                color: orange; 
+            }
+
+                .custom-app-bar .mud-icon-button {
+                    color: orange;
+                }
+        </style>
+
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
